@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'prilanbot'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E82EACAB54BF4507AD12DD48587F99DA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7D57903E147E43A9A4AD1247730BEA7F }}
